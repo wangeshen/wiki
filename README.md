@@ -3,4 +3,4 @@ wiki
 
 docs
 
-this is my docs repo.
+this is my docs.
