@@ -1,6 +1,5 @@
-wiki
+WES docs
 ====
-
-docs
-
-this is my docs.
+This repo is just used to keep my docs.  
+---
+[[Here are my docs|https://github.com/wangeshen/wiki/wiki]]
